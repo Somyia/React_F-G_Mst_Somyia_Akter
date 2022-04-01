@@ -1,0 +1,55 @@
+label{
+    display: block;
+}
+.container-fluid{
+    padding: 0 40px;
+    
+}
+.nav-tabs {
+    border-bottom: 2px solid #dee2e6;
+    background-color: #fff;
+}
+.nav-tabs .nav-link{
+    color: #000;
+    font-weight: 500;
+}
+.nav-tabs .nav-link.active{
+    border: none;
+    border-bottom: 2px solid #5084b8;
+}
+.form-area, .table-area{
+    background-color:  #f8f8fa;
+    
+    padding: 40px;
+}
+.form-area h4, .table-area h4{
+    color: rgb(30, 58, 219);
+}
+form{
+    background-color: #fff;
+    padding: 40px;
+}
+.form-left div, .form-right div{
+    margin-bottom: 20px;
+}
+.form-left div input{
+    width: 70%;
+
+}
+.form-right div input{
+    width: 10%;
+}
+.feedback-btn{
+    float: right;
+    color: #fff;
+    background-color: #13b154;
+    border: none;
+    padding: 7px 15px;
+}
+th,td{
+    border: 1px solid #c0c5ca;
+}
+thead{
+    background-color: #dee2e6;
+   
+}
