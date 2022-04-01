@@ -1,4 +1,0 @@
-<Field type="radio" name="experience" value="Excellent" /> Excellent
-                                                                    <Field type="radio" name="experience" value="Good" /> Good
-                                                                    <Field type="radio" name="experience" value="Fair" /> Fair
-                                                                    <Field type="radio" name="experience" value="Bad" /> Bad
